@@ -3,9 +3,3 @@
 
 
 [Vídeo exemplo Rocketseat](https://www.youtube.com/watch?v=-jXfKDYJJvo)
-
-git init;
-git commit -m "first commit";
-git branch -M main;
-git remote add origin https://github.com/Kaspary/chat_websockets.git;
-git push -u origin main;
